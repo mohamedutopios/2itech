@@ -1,5 +1,5 @@
 id  employee_id first_name  last_name   job_title   salary
-1   1   Cazzie  Leward  Food Chemist    78163.57
+1 ;  1   Cazzie  Leward  Food Chemist    78163.57
 2   2   Peyter  Woolatt VP Sales    75333.36
 3   3   Valentine   Burnsall    Human Resources Assistant II    82186.07
 4   4   Amery   Orrill  Nurse   88710.41
