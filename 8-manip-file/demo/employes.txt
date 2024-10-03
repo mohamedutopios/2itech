@@ -1,0 +1,21 @@
+id  employee_id first_name  last_name   job_title   salary
+1   1   Cazzie  Leward  Food Chemist    78163.57
+2   2   Peyter  Woolatt VP Sales    75333.36
+3   3   Valentine   Burnsall    Human Resources Assistant II    82186.07
+4   4   Amery   Orrill  Nurse   88710.41
+5   5   Cesya   Oxton   Pharmacist  31802.74
+6   6   Sydelle Illingworth VP Quality Control  72865.39
+7   7   Blithe  Attride Senior Sales Associate  146554.75
+8   8   Dyann   O'Clery Office Assistant IV 92248.1
+9   9   Rosella Hartmann    Biostatistician III 126122.06
+10  10  Myrtle  Giovannazzi Compensation Analyst    137017.43
+11  11  Myrta   Huckle  Environmental Tech  69102.43
+12  12  Essy    O' Cloney   Payment Adjustment Coordinator  102479.5
+13  13  Eduino  Janowicz    Tax Accountant  71597.61
+14  14  Olivie  Martel  Recruiting Manager  104874.16
+15  15  Ursulina    Shearmur    Budget/Accounting Analyst IV    140137.97
+16  16  Bev Donet   VP Sales    47826.73
+17  17  Sebastien   Kunat   Database Administrator IV   70838.37
+18  18  Taite   Micah   Dental Hygienist    47937.87
+19  19  Norton  Kryska  Librarian   83675.95
+20  20  Liz Utridge Chief Design Engineer   105901.21
